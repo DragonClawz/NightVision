@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "nightvision",
+        "name": "NightVision",
+        "version": "0.1",
+        "description": "Give Night Vision effect to players",
+        "authorList": [
+            "RandomEpicFails"
+        ],
+        "dependencies": [
+            "spongeapi@7.2.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.2.0"
+        ]
+    }
+]

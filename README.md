@@ -9,3 +9,5 @@ Author: DragonClawz/RandomEpicFails
 Command: /nv or /nightvision to activate or deactivate
 
 Description: Invokes the Night Vision potion effect to a player on command
+
+Requires: Minecraft 1.12.2, Pixelmon 7.2.2

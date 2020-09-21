@@ -1,6 +1,6 @@
 # NightVision
 
-Nightvision plugin for Minecraft Server 1.12.2
+Nightvision plugin for Minecraft Pixelmon Server 1.12.2/7.2.2
 
 Author: DragonClawz/RandomEpicFails
 
